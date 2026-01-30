@@ -9,7 +9,7 @@ env:
   # TODO: Replace with your actual values
   ACR_NAME: acrqgk65f34i2hvu
   RESOURCE_GROUP: cloudlab-27a-18d
-  CONTAINER_APP_NAME: <container-app-name>
+  CONTAINER_APP_NAME: app-qgk65f34i2hvu
   IMAGE_NAME: hello-world-node-app
 
 jobs:
